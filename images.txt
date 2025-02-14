@@ -1,4 +1,5 @@
 #ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 #mysql:5.6
 #docker.io/library/php:8.1-apache
-ubuntu:18.04
+#ubuntu:18.04
+php:8.2-apache
