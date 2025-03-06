@@ -4,4 +4,5 @@
 #ubuntu:22.04
 #php:8.2-apache
 #debian:bookworm
-python:3.7-slim
+#python:3.7-slim
+node:18.14.0-slim
