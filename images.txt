@@ -6,4 +6,5 @@
 #debian:bookworm
 #python:3.7-slim
 #node:18.14.0-slim
-redis:6.2.6
+#redis:6.2.6
+mongo:4.4.24
