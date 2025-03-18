@@ -8,4 +8,5 @@
 #node:18.14.0-slim
 #redis:6.2.6
 #mongo:4.4.24
-mongodb/mongodb-atlas-local:7.0.12-20240812T150059Z
+#mongodb/mongodb-atlas-local:7.0.12-20240812T150059Z
+gitlab/gitlab-ce:15.10.3-ce.0
